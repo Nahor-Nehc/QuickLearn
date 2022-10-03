@@ -1,0 +1,2 @@
+===[v0]===
+- created a skeleton for changing between the menu, create, flashcards and learn mode

@@ -1,0 +1,6 @@
+porto,i carry
+portas,you carry
+portat,he/she/it carries
+portamus,we carry
+portatis,you carry
+portant,they carry
